@@ -1,6 +1,12 @@
 # Prosper_Loan_Data
 
 Prosper Loan Data Visualization
+
+This visualization story can be found at tableau public server
+Link to the project:
+
+https://public.tableau.com/profile/shruti8810#!/vizhome/loan_prosper_data_final_reviewed/Story4?publish=yes
+
 <br>About
 <br>Prosper is a peer-to-peer lending platform that aims to connect people who need money with those people who have the money to invest. In this data analysis project, I have explored the Prosper dataset and used Tableau to create my visualizations.
 <br>
